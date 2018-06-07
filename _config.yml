@@ -7,13 +7,18 @@ theme: jekyll-theme-merlot
     </head>
     <style>
      h1 { text-align: center; 
+     color: darkblue;
      }
      table{ 
          text-align: center;
+         color: darkblue;
      }
-     body{
+     p{
          color: darkblue;
          text-align: center;
+     }
+     body {
+        color: darkblue;
      }
      h2 {
      text-align: center;
@@ -44,7 +49,7 @@ theme: jekyll-theme-merlot
         <td>Best Players </td> <td>Poor Shot Selection </td>
     </tr>
    </table>
-   <img src = "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjAoPqJocLbAhWEj1QKHZkoCwoQjhx6BAgBEAM&url=https%3A%2F%2Fwww.si.com%2Fnba%2F2018%2F02%2F18%2Fnba-all-star-game-lebron-james-mvp-stephen-curry-recap&psig=AOvVaw2qa20kuiJoXpJgsQoO7TH2&ust=1528485126858352"alt= "LeBron Dunking">
+   
    
    <br>  <h2> Facts </h2>  
    <ul> <li> The last time under 100 points was scored in the All-Star Game was in 1966.
@@ -54,22 +59,31 @@ theme: jekyll-theme-merlot
    <li> LeBron James and Anthony Davis lead the All-Star Game points per game with 24.5, Chris Paul leads in assists with 13.2 per game, and Bob Pettit leads rebounds per game with 16.2 
    <li> Michael Jordan is in 9th place with 20.2 points per game behind many players below his level of play like Paul George with 20.8 points per game and Blake Griffin with 21.8 points per game
    <li> 1 of the top 20 players in blocks per game is active, (Dwight Howard 1.1) Kareem has the most with 2.1
+   <li> In the last 2 minutes of the game only 7 points were scored in total
+   <li> The league has doubled the winning money from 50,000 to 100,000 since 2017
+   <li> 11 of the top 25 players for points in one All Star Game are still active
    </ul>
-   <h2> Opinion</h2>
-   <img src= "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiar42uncLbAhUME3wKHR5MC2UQjhx6BAgBEAM&url=https%3A%2F%2Fwww.quora.com%2FWho-will-win-the-2018-NBA-All-Star-Game&psig=AOvVaw1Oid4LRQ91UAu0LvgXpj_W&ust=1528484154889371" alt ="Team LeBron and Team Curry NBA All Star Game" >
+   
+   
+   <h2> My Opinion</h2>
    <p> I believe that the NBA All Star Game has gotten less competitive over the years but this year was the most competitive in the last 5. It has gotten less competitive because nobody plays defense. Stephen Curry who is thought to be top 3 in the league laid down on the floor to escape playing defense. This year still lacked adequate defense but 148-145 isn't a defensive game. The competitivness came from two evenly matched teams going at it with high powered offense. At the end of the game Team LeBron locked up Steph Curry from taking the final shot which ultimately gave them the win. Two years ago it was East verse West and before the game everyone knew the East didnt have a chance. Back in the 1990's people would argue and fight in game and it would be heated. Now guys are taking ridiculous shots and it is taking away from the competition.
    </p>
    
- 
-   
+ <h2>Sports Analysts and Players Opinions</h2>
+   "You know good and well that the problem is on Sunday's come all star weekend y'all show no effort" ~Stephen A. Smith (Sports Analyst) <br><br>
+   "We wanted to kind of change the narrative of the All-Star Game being a joke, today we make it a real basketball game" ~ Kevin Durant (NBA Player) <br><br>
+   "...really just gave us an opportunity to hit the reset button" ~ Stephen Curry (NBA Player) <br><br>
+   "The new format was great,The fans did a great job of reacting to it in a very positive way. That draft was something that hadn’t been done before, and the great thing about our commissioner is he is absolutely willing to do something new and change the format. It definitely worked out for everybody. ~ LeBron James (NBA Player)<br> <br>
    
    <br> <h2> Citaton </h2>
   
    <ul>
-   <li><a> https://www.vanityfair.com/style/2018/02/a-brief-history-of-how-the-nba-all-star-games-slid-into-competitive-farce</a></li> 
-   <li><a>https://www.basketball-reference.com/allstar/leaders_career.html</a></li> 
-   <li><a> https://www.complex.com/sports/2018/02/it-was-competitive-but-the-all-star-game-cant-be-saved</a></li>
-   <li><a> https://www.cbssports.com/nba/news/2018-nba-all-star-game-the-new-format-worked-and-it-can-keep-getting-better/</a></li>
+   <li><a href= "https://www.vanityfair.com/style/2018/02/a-brief-history-of-how-the-nba-all-star-games-slid-into-competitive-farce">Vanity Fair</a></li> 
+   <li><a href= "https://www.basketball-reference.com/allstar/leaders_career.html">Basketball Reference</a></li> 
+   <li><a href= "https://www.complex.com/sports/2018/02/it-was-competitive-but-the-all-star-game-cant-be-saved">Complex </a></li>
+   <li><a href= "https://www.cbssports.com/nba/news/2018-nba-all-star-game-the-new-format-worked-and-it-can-keep-getting-better/">CBS Sports</a></li>
+   <li><a href= "https://www.nytimes.com/2018/02/18/sports/nba-all-star-game.html">NBA Players Quotes</a></li>
+   <li><a href="https://www.youtube.com/watch?reload=9&v=Q8BCEkt1bu4">Stephen A. Smith Quote</a></li>
   </ul>
   
     </body>
