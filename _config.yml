@@ -1,1 +1,76 @@
 theme: jekyll-theme-merlot
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Website Project</title>
+    </head>
+    <style>
+     h1 { text-align: center; 
+     }
+     table{ 
+         text-align: center;
+     }
+     body{
+         color: darkblue;
+         text-align: center;
+     }
+     h2 {
+     text-align: center;
+     }
+     h3 {
+     text-align: center;
+     }
+    
+    </style>
+    <body>
+   <h1> NBA All Star Game Competitiveness</h1>
+   <p>I believe that the NBA All Star Game has gotten less competitive over the years.
+   </p>
+   
+   
+   <table border="5">
+   <tr>
+       <th>Competitive </th>
+       <th>Not Competitive </th>
+       </tr>
+        <tr>
+     <td>Good Offense</td><td>Lack of Defense</td>   
+    </tr>
+    <tr> 
+    <td>Captains Select Teams </td> <td>Not Much Hustle </td>  
+    </tr>
+    <tr>
+        <td>Best Players </td> <td>Poor Shot Selection </td>
+    </tr>
+   </table>
+   
+   
+   <br>  <h2> Facts </h2>  
+   <ul> <li> The last time under 100 points was scored in the All-Star Game was in 1966.
+   <li> Since 2010, the lowest score and All-Star Team has scored was 138 points, which was the East Team in 2013.
+   <li> Kareem Abdul-Jabbar holds the All-Star Game record in blocks with 6 in one game, in the last 3 All-Star Games they all combined for 6 blocks.
+   <li> 8 out of the top 20 leaders in points per game, in the all star game history are still active players
+   <li> LeBron James and Anthony Davis lead the All-Star Game points per game with 24.5, Chris Paul leads in assists with 13.2 per game, and Bob Pettit leads rebounds per game with 16.2 
+   <li> Michael Jordan is in 9th place with 20.2 points per game behind many players below his level of play like Paul George with 20.8 points per game and Blake Griffin with 21.8 points per game
+   <li> 1 of the top 20 players in blocks per game is active, (Dwight Howard 1.1) Kareem has the most with 2.1
+   </ul>
+   <h2> Opinion</h2>
+   <img src= "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiar42uncLbAhUME3wKHR5MC2UQjhx6BAgBEAM&url=https%3A%2F%2Fwww.quora.com%2FWho-will-win-the-2018-NBA-All-Star-Game&psig=AOvVaw1Oid4LRQ91UAu0LvgXpj_W&ust=1528484154889371" alt ="Team LeBron and Team Curry NBA All Star Game" >
+   <p> I believe that the NBA All Star Game has gotten less competitive over the years but this year was the most competitive in the last 5. It has gotten less competitive because nobody plays defense. Stephen Curry who is thought to be top 3 in the league laid down on the floor to escape playing defense. This year still lacked adequate defense but 148-145 isn't a defensive game. The competitivness came from two evenly matched teams going at it with high powered offense. At the end of the game Team LeBron locked up Steph Curry from taking the final shot which ultimately gave them the win. Two years ago it was East verse West and before the game everyone knew the East didnt have a chance. Back in the 1990's people would argue and fight in game and it would be heated. Now guys are taking ridiculous shots and it is taking away from the competition.
+   </p>
+   
+ 
+   
+   
+   <br> <h2> Citaton </h2>
+  
+   <ul>
+   <li><a> https://www.vanityfair.com/style/2018/02/a-brief-history-of-how-the-nba-all-star-games-slid-into-competitive-farce</a></li> 
+   <li><a>https://www.basketball-reference.com/allstar/leaders_career.html</a></li> 
+   <li><a> https://www.complex.com/sports/2018/02/it-was-competitive-but-the-all-star-game-cant-be-saved</a></li>
+   <li><a> https://www.cbssports.com/nba/news/2018-nba-all-star-game-the-new-format-worked-and-it-can-keep-getting-better/</a></li>
+  </ul>
+  
+    </body>
+</html>
