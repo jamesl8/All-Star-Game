@@ -1,5 +1,4 @@
 theme: jekyll-theme-merlot
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
