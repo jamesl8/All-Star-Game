@@ -5,8 +5,9 @@
         <title>Website Project</title>
     </head>
     <style>
-     h1 { text-align: center; 
-     color: darkblue;
+     h1 {
+         text-align: center; 
+         color: darkblue;
      }
      table{ 
          text-align: center;
